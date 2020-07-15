@@ -4,7 +4,7 @@ module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'demo-dynamic-route',
     environment,
-    rootURL: '/',
+    rootURL: '/demo-dynamic-route',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {

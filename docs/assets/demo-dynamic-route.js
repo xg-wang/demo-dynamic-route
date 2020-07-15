@@ -517,7 +517,7 @@ catch(err) {
 
 ;
           if (!runningTests) {
-            require("demo-dynamic-route/app")["default"].create({"name":"demo-dynamic-route","version":"0.0.0+f72a5078"});
+            require("demo-dynamic-route/app")["default"].create({"name":"demo-dynamic-route","version":"0.0.0+0253c58c"});
           }
         
 //# sourceMappingURL=demo-dynamic-route.map
